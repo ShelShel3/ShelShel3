@@ -10,4 +10,11 @@
 - Working towards CompTIA Sec+ (Expected 4/2025)
 
 <h2> 🤳 Connect with me:</h2>
-https://linkedin.com/in/sheldonlong
+
+
+[<img align="left" alt="SheldonLong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/sheldonlong
+
+<!--

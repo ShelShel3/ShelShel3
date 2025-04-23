@@ -7,7 +7,7 @@
 <h2> Certifications:</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/e05b9a2a067c9530ca0fd5d67d166a61)
-- Working towards CompTIA Sec+ (Expected 4/2025)
+- Working towards CompTIA Sec+ (Expected 5/2025)
 
 <h2> 🤳 Connect with me:</h2>
 
